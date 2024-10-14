@@ -1,4 +1,4 @@
-# Comps
+# Angular Bootcamp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3. based on the Udemy The  [Modern Angular Bootcamp](https://www.udemy.com/course/the-modern-angular-bootcamp/?couponCode=ST8MT101424)
 
